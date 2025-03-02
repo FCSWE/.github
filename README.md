@@ -1,1 +1,3 @@
-# .github
+# Furry Convention Software Engineers
+
+
